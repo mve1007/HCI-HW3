@@ -1,4 +1,11 @@
-# Quick note I used a lot of notes online about the tailwind CSS for the styling (nothing copied but just overall help)
+# Quick note I used a lot of notes online about the tailwind and quasar for CSS for the styling (nothing copied but just overall help)
+# https://quasar.dev
+# https://tailwindcss.com
+# https://paletacolorpro.com/en/tailwind-color-guide
+# https://nicegui.io
+
+# There were other reasource I wanted to reference but I can't find the old tabs
+
 
 from nicegui import ui
 import requests
